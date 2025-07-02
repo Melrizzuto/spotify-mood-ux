@@ -2,8 +2,8 @@
 
 A UX/UI redesign concept of the Spotify mobile app focused on **mood-based discovery** and emotional interaction.
 
-🔗 [**View the Figma Prototype**](https://www.figma.com/design/j0r95DIdzOs4aHJ4ioWSsF/Spotify-Mood?node-id=0-1)
-
+🔗 [**View the Figma Project**](https://www.figma.com/design/j0r95DIdzOs4aHJ4ioWSsF/Spotify-Mood?node-id=0-1)
+🔗 [**View Interactive Prototype**](https://www.figma.com/proto/j0r95DIdzOs4aHJ4ioWSsF/Spotify-Mood?node-id=202-3684&p=f&t=n7lqWEjbIUnwVzo2-0&scaling=scale-down&content-scaling=fixed&page-id=120%3A3064&starting-point-node-id=202%3A3895&show-proto-sidebar=1)
 ---
 
 ## 🎯 Project Goals
